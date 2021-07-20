@@ -1,0 +1,1 @@
+/home/krishna/.config/nvim/init.vim
